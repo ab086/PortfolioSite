@@ -1,0 +1,12 @@
+- Dark theme
+- Light text
+- Fonts unsure
+- Sections for projects
+- Navbar for sections (contains link to external GitHub)
+- Mobile First
+
+
+Technologies
+- Bootstrap
+- FontAwesome (maybe, but likely)
+- SCSS

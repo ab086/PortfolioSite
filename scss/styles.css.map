@@ -1,0 +1,14 @@
+{
+    "version": 3,
+    "mappings": "AGAA,AAAA,OAAO,CAAC;EACJ,SAAS,EAAE,IAAI;CAClB",
+    "sources": [
+        "styles.scss",
+        "_variables.scss",
+        "_mixins.scss",
+        "_navigation.scss",
+        "_body.scss",
+        "_footer.scss"
+    ],
+    "names": [],
+    "file": "styles.css"
+}
