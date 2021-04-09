@@ -8,4 +8,4 @@ Repo to house the files for my protfolio website.
 - JS
 
 ## Notice for "HackLang" Code
-This is a current bug with Github. If Github sees PHP files that are either empty or missing PHP tags (or if the tags are empty), it mistakenly believes the file is a HackLang file. Untill all pages and files are filled, the HackLang language mistake will remain.
+This is a current bug with Github. If Github sees PHP files that are either empty or missing PHP tags (or if the tags are empty), it mistakenly believes the file is a HackLang file. The .gitattributes file should override this, but I can't guarantee it's a perfect fix.
